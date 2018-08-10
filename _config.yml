@@ -1,0 +1,42 @@
+# Site settings
+title: *folio
+email: ambarish.ganguly@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A simple, whitespace, helvetica based portfolio theme.
+baseurl:  
+url:  "http://ambarishg.github.io"
+twitter_username: twitter_username
+github_username:  github_username
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+
+# Pagination
+paginate: 6
+paginate_path: "page:num"
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  poetry:
+    output: true
+    permalink: /poetry/:path/
+  books:
+    output: true
+    permalink: /books/:path/
+  awards:
+    output: true
+    permalink: /awards/:path/
+  azure:
+    output: true
+    output_tags: true
+    permalink: /azure/:path/
+ # Gems
+plugins:
+  - jekyll-paginate
+
+
