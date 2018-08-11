@@ -6,6 +6,7 @@ date: 2018-08-10 14:54:00
 tags:
 - azure
 - azure security
+- azure monitoring
 description: Azure Log Analytics 
 ---
 <br/>
