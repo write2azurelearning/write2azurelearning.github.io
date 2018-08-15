@@ -10,7 +10,7 @@ description: Azure Data Management Gateway
 ---
 <br/>
 
-###  Azure Data Management Gateway
+###  Azure Data Management Gateway             
                                 
 <br/>
 ![DataManagementGateway](/img/DataManagementGateway/datamanagement_gateway.jpg){:class="img-responsive"}

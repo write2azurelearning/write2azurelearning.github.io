@@ -18,9 +18,10 @@ Time Series Insights is built for **storing, visualizing, and querying large amo
 <br/>
 
 
-### 4 key Jobs
+### 4 key Jobs                       
 
-* First, it's fully integrated with cloud gateways like Azure IoT Hub and Azure Event Hubs.         
+
+* First, it's fully integrated with cloud gateways like Azure IoT Hub and Azure Event Hubs.                     
 
 * Second, Time Series Insights manages the storage of your data.             
 * Third, Time Series Insights provides out-of-the-box visualization via the TSI explorer.           
