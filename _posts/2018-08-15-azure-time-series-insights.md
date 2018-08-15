@@ -5,7 +5,7 @@ categories: Cloud Computing
 date: 2018-08-15 00:00:00
 tags:
 - azure
-- azure time series insights
+- azure iot
 description: Azure Time Series Insights 
 ---
 <br/>
