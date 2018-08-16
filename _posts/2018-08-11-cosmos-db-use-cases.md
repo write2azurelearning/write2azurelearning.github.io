@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cosmos DB Use Cases
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-11 05:00:00
 tags:
 - azure

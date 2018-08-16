@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Key Vaults
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-12 02:05:00
 tags:
 - azure

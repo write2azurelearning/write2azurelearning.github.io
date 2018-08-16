@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Event Hub and Event Grid
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-10 16:30:00
 tags:
 - azure

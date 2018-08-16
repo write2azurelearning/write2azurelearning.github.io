@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Batch
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-12 03:00:00
 tags:
 - azure

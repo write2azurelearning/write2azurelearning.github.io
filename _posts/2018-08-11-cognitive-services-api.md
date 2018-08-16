@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cognitive Services API
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-11 00:00:00
 tags:
 - azure

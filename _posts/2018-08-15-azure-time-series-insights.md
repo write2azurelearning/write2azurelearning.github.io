@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Time Series Insights
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-15 00:00:00
 tags:
 - azure

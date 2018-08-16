@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Forced Tunneling
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-09 09:00:00
 tags:
 - azure

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Load Balancers   
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-11 01:16:00
 tags:
 - azure

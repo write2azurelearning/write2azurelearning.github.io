@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Security Center 
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-10 13:00:00
 tags:
 - azure

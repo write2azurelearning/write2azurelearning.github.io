@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Stream Analytics 
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-10 18:03:00
 tags:
 - iot

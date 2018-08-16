@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Event Hub Capture
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-10 18:07:00
 tags:
 - azure

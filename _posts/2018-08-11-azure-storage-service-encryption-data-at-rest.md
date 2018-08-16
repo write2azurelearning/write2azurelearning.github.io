@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Storage Service Encryption
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-12 01:30:00
 tags:
 - azure

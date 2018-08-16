@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Application Gateway
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-11 01:15:00
 tags:
 - azure

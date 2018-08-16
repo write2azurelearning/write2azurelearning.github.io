@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARM Template
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-12 02:00:00
 tags:
 - azure

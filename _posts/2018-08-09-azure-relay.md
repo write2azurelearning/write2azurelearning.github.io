@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Relay
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-09 10:01:00
 tags:
 - azure

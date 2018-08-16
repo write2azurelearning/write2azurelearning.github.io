@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Data Management Gateway
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-09 10:00:00
 tags:
 - azure

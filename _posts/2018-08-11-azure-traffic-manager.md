@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Traffic Manager
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-11 01:20:00
 tags:
 - azure

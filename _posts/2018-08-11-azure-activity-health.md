@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Activity Log  
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-11 00:09:00
 tags:
 - azure

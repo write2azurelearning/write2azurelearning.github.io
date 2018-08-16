@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Monitoring Products  
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-11 00:05:00
 tags:
 - azure

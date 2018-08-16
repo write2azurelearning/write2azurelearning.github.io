@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Log Analytics 
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-10 14:54:00
 tags:
 - azure

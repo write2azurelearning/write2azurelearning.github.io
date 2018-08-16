@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Backup
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-10 10:38:00
 tags:
 - azure

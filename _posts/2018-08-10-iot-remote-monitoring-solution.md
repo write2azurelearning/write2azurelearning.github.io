@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Remote Monitoring Solution
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-10 18:05:00
 tags:
 - iot

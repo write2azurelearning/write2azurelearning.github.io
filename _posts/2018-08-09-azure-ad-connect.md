@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure AD Connect
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-09 19:00:00
 tags:
 - azure

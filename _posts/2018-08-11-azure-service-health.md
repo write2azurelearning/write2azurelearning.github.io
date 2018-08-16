@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Service Health  
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-11 00:08:00
 tags:
 - azure

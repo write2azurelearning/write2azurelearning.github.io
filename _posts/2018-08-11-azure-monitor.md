@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure Monitor  
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-11 00:07:00
 tags:
 - azure

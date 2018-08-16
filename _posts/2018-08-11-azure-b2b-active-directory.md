@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure AD B2B collaboration
-categories: Cloud Computing
+categories: Cloud
 date: 2018-08-12 01:00:00
 tags:
 - azure
