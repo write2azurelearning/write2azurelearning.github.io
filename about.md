@@ -1,13 +1,8 @@
 ---
 layout: page
-title: about
+title: About 
 permalink: /about/
+tags: about
 ---
-<div class="col three caption">
-	The best way to reach me is through email : write2azurelearning (at) gmail (dot) com
-</div>
 
-<br/>
-<hr/>
-<br/>
-
+A Azure Learning website
