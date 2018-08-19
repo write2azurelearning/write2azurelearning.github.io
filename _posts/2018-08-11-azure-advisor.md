@@ -8,7 +8,6 @@ tags:
 - azure monitoring
 description: Azure Advisor    
 ---
-<br/>
 
 Advisor is a **personalized cloud consultant** that helps you follow best practices to optimize your Azure deployments. It analyzes your resource configuration and usage telemetry and then recommends solutions that can help you improve the cost effectiveness, performance, high availability, and security of your Azure resources.                 
 

@@ -9,7 +9,7 @@ tags:
 description: Event Hub and Event Grid 
 ---
 
-<br/>                    
+                  
 
 ![Azure](/img/AzureMessaging/eventgrid_eventhub.jpg){:class="img-responsive"}              
 

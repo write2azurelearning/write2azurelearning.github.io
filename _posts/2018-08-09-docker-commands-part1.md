@@ -7,7 +7,6 @@ tags:
 - docker
 description: Docker commands Part 1
 ---
-<br/>
 
 ###  Docker commands Part 1                     
 

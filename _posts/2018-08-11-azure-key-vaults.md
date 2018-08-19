@@ -8,7 +8,6 @@ tags:
 - azure security
 description: Azure Key Vaults 
 ---
-<br/>
 
 [Azure Key Vaults](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis)
 

@@ -8,7 +8,6 @@ tags:
 - azure deployment
 description: ARM Template 
 ---
-<br/>
 
 An `ARM template` consists of `JSON` and expressions which you can use to construct values for your deployment. You must limit the size your template to 1 MB, and each parameter file to 64 KB. The 1 MB limit applies to the final state of the template after it has been expanded with iterative resource definitions, and values for variables and parameters.
 

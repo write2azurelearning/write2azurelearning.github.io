@@ -9,7 +9,6 @@ tags:
 - azure monitoring
 description: Azure Log Analytics 
 ---
-<br/>
 
 ![Azure](/img/AzureSecurity/loganalytics.jpg){:class="img-responsive"}
 

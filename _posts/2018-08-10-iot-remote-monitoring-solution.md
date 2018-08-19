@@ -9,7 +9,6 @@ tags:
 - azure iot
 description: Azure Remote Monitoring Solution 
 ---
-<br/>
 
 ![Azure](/img/AzureIOT/remote_monitoring_system.jpg){:class="img-responsive"} 
 

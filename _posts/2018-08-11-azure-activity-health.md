@@ -8,7 +8,7 @@ tags:
 - azure monitoring
 description: Azure Activity Log    
 ---
-<br/>
+
 The **Azure Activity Log** is a subscription log that provides insight into subscription-level events that have occurred in Azure            
 
 Using the Activity Log, you can determine the `what, who, and when` for any write operations (PUT, POST, DELETE) taken on the resources in your subscription. You can also understand the status of the operation and other relevant properties. The Activity Log does not include read (GET) operations or operations for resources that use the Classic/"RDFE" model.   

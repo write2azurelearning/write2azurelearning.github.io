@@ -8,7 +8,6 @@ tags:
 - azure identity
 description: Azure Azure AD Connect
 ---
-<br/>
 
 ### Azure AD Connect          
 <br/>

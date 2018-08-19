@@ -8,7 +8,6 @@ tags:
 - azure monitoring
 description: Azure Monitor    
 ---
-<br/>
 
 Azure Monitor provides **base-level infrastructure metrics and logs for most services** in Microsoft Azure. Azure services that do not yet put their data into Azure Monitor will put it there in the future.
 

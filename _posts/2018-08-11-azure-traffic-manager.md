@@ -8,7 +8,6 @@ tags:
 - azure load balancer
 description: Azure Traffic Manager 
 ---
-<br/>
 
 Azure Traffic Manager is a **DNS-based traffic load balancer** that enables you to distribute traffic optimally to services across **global Azure regions**, while providing high availability and responsiveness.               
 

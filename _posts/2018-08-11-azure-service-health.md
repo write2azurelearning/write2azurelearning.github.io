@@ -8,8 +8,6 @@ tags:
 - azure monitoring
 description: Azure Service Health     
 ---
-<br/>
-
 Azure Service Health is a suite of experiences that provide personalized guidance and support when issues in Azure services affect you. It can notify you, help you understand the impact of issues, and keep you updated as the issue resolves. It can also help you prepare for planned maintenance and changes that could affect the availability of your resources.
 
 Azure Service Health is composed of:

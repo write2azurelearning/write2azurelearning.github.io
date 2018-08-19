@@ -8,7 +8,6 @@ tags:
 - hybrid connectivity
 description: Azure Relay
 ---
-<br/>
 
 ### Azure Relay          
 

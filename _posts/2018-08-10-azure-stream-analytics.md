@@ -9,7 +9,6 @@ tags:
 - azure iot
 description: Azure Stream Analytics 
 ---
-<br/>
 
 ![Azure](/img/AzureIOT/stream_analytics_intro_pipeline.jpg){:class="img-responsive"} 
 

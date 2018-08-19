@@ -8,7 +8,6 @@ tags:
 - azure security
 description: Azure Security Center 
 ---
-<br/>
 
 ![Azure](/img/AzureSecurity/azure_security_center.jpg){:class="img-responsive"}
 
